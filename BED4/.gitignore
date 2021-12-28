@@ -1,3 +1,5 @@
 node_modules/
 package-lock.json
 dw.json
+cartridges/app_onboarding/cartridge/static/default/css/
+cartridges/app_onboarding/cartridge/static/default/js/
