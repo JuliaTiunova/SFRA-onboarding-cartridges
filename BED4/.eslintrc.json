@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "extends": "airbnb-base/legacy",
+  "rules": {
+    "quotes": ["error", "double"],
+    "linebreak-style": 0,
+    "extends": "eslint:recommended"
+  }
+}
